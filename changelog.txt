@@ -1,0 +1,33 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 10.5.2020
+  Features:
+    - Change color of productivity modules
+    - It is no longer possible to get productivity module items
+    - Fixed the mipmaps of the productivity beacon technology
+    - Productivity beacons no longer work on finished products
+    - Beacon overload now works properly
+    - There is now a setting to toggle the productivity beacon (DEFAULT: ENABLED)
+---------------------------------------------------------------------------------------------------
+Version: 1.0.3
+Date: 9.1.2020
+  Features:
+    - Fixed an issue with permanant overload tiles
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 8.27.2020
+  Features:
+    - Change color of productivity modules
+    - Fixed an issue with large modded beacons again
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 8.27.2020
+  Features:
+    - New thumbnail
+    - Fixed an issue with construction drones
+    - Fixed an issue with large modded beacons
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 8.26.2020
+  Features:
+    - Initial release
